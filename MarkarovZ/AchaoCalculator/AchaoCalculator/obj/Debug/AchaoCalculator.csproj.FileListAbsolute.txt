@@ -1,0 +1,7 @@
+E:\开发内容\AchaoCalculator\MarkarovZ\AchaoCalculator\AchaoCalculator\bin\Debug\AchaoCalculator.exe.config
+E:\开发内容\AchaoCalculator\MarkarovZ\AchaoCalculator\AchaoCalculator\bin\Debug\AchaoCalculator.exe
+E:\开发内容\AchaoCalculator\MarkarovZ\AchaoCalculator\AchaoCalculator\bin\Debug\AchaoCalculator.pdb
+E:\开发内容\AchaoCalculator\MarkarovZ\AchaoCalculator\AchaoCalculator\obj\Debug\AchaoCalculator.csproj.CoreCompileInputs.cache
+E:\开发内容\AchaoCalculator\MarkarovZ\AchaoCalculator\AchaoCalculator\obj\Debug\AchaoCalculator.exe
+E:\开发内容\AchaoCalculator\MarkarovZ\AchaoCalculator\AchaoCalculator\obj\Debug\AchaoCalculator.pdb
+E:\开发内容\AchaoCalculator\MarkarovZ\AchaoCalculator\AchaoCalculator\obj\Debug\AchaoCalculator.csprojAssemblyReference.cache
